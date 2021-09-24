@@ -1,3 +1,6 @@
 manga
 page
+<<<<<<< HEAD
 deep
+=======
+
