@@ -1,8 +1,8 @@
 manga
 page
-<<<<<<< HEAD
 deep
-=======
 hello
-
+HEAD
 doda
+abdelrahman
+
